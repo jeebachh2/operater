@@ -53,16 +53,17 @@
 // console.log(name3 == name4);
 
 // ===  these operate are check the value and type both.
-let name1 = "persion";
-var name2 = "persion";
-console.log(name1 === name2);
+var name1 = 10;
+let name2 = 10;
+// console.log(name1 === name2);
+console.log(10 === '10');
 
-let variable1 = 25;
-let variable2 = 15;
-console.log(variable1 < variable2);
-age = 18;
-age = 20;
-console.log(18 === 20);
+// let variable1 = 25;
+// let variable2 = 15;
+// console.log(variable1 < variable2);
+// age = 18;
+// age = 20;
+// console.log(18 === 20);
 
 
 
